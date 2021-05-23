@@ -5,7 +5,7 @@
         raviisas666@outlook.com ,
         ravindu.w23@gmail.com,
         Ravindu Sasanka @LinkedIn
-        and pretty mcuh any other social
+        and pretty much any other social
 
 <!---
 razzy23/razzy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
