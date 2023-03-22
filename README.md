@@ -4,7 +4,7 @@
 - 📫 How to reach me :
         raviisas666@outlook.com ,
         ravindu.w23@gmail.com,
-        Ravindu Sasanka @LinkedIn
+        [Ravindu Sasanka @LinkedIn](https://www.linkedin.com/feed/)
         and pretty much any other social
 
 <!---
