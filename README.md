@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @razzy23
+## 👋 Hi, I’m the razzy23
 - 👀 I’m interested in pretty much anything tech, sports, music and movies
 - 🌱 I’m currently learning computer science
 - 📫 How to reach me :
