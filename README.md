@@ -6,9 +6,6 @@
         ravindu.w23@gmail.com,
         Ravindu Sasanka @LinkedIn
         and pretty much any other social
-        
- <p> this is a paragraph </p>
- <ul><li> hi </li><li> there</li></ul>
 
 <!---
 razzy23/razzy23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
