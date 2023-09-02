@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👀 I’m interested in pretty much anything tech, sports, music and movies A certified geek and interested in all things in Design
 
 * 🌍  I'm based in Sri Lanka
+* 🏛️  Currently a student at University of Colombo School of Computing
 * ✉️  You can contact me at [ravindu.w23@gmail.com](mailto:ravindu.w23@gmail.com)
 * 🧠  I'm learning Computer Science
 * 🤝  I'm open to collaborating on UI/UX projects
